@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
 body {
   background-image: linear-gradient(rgb(59, 88, 93), rgb(29, 40, 42));
   color: white;
@@ -19,6 +21,7 @@ button {
   background-color: inherit;
   color: inherit;
   border: none;
+  cursor: pointer;
 }
 
 #buttons {
@@ -30,14 +33,17 @@ button {
 
 .button {
   font-size: 1.5em;
+  cursor: pointer;
 }
 
 .button-navigate {
   font-size: 3em;
+  cursor: pointer;
 }
 
 .button-biggest {
   font-size: 4em;
+  cursor: pointer;
 }
 
 #cover {
@@ -46,7 +52,7 @@ button {
 
 #title-player {
   text-align: center;
-  padding-bottom: 50px;
+  padding-bottom: 0px;
 }
 
 #song-name {
@@ -63,12 +69,17 @@ button {
   height: 3px;
   width: 100%;
   border-radius: 15px;
-  margin-bottom: 1em;
 }
 
 #current-progress {
+  --progress: 0%;
   height: inherit;
   background-color: #ffffff;
-  width: 50%;
+  width: var(--progress);
   border-radius: inherit;
+}
+
+#progress-container{
+  padding-bottom: 1em;
+  cursor: pointer;
 }
