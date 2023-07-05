@@ -10,7 +10,7 @@ This is a project developed via html, css and js where I created a music player.
 </p>
 
 <p align="center">
-  <img alt="music player" src="C:\Users\ferna\OneDrive\Área de Trabalho\Dev\MusicPlayerProject">
+  <img alt="music player" src="/images/musicplayer.png">
 </p>
 
 <br>
