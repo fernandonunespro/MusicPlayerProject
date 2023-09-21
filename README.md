@@ -5,6 +5,10 @@ This is a project developed via html, css and js where I created a music player.
 </p>
 
 <p align="center">
+you can access it here https://old-volleyball-yellow-korea.bohr.io/
+</p>
+
+<p align="center">
   <a href="#-tecnology">Tecnology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
@@ -22,6 +26,7 @@ This project was developed with the following technologies:
 - HTML and CSS
 - JavaScript
 - Git and Github
+- Deploy with bohr.io
 
 ## 💻 Project
 
